@@ -21,3 +21,7 @@ h2 {
   text-decoration: underline; /* Souligné */
   font-size: 3.5em;           /* Très, très grand texte */
 }
+
+#logo {
+  border: 2px solid #7293A0;
+}
